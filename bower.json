@@ -1,0 +1,18 @@
+{
+  "name": "bare-clearfix",
+  "version": "0.1.0",
+  "authors": [
+    "Eric Harms <barefoot.css@gmail.com>"
+  ],
+  "description": "The clearfix module is a micro clearfix helper class.",
+  "main": "_trumps.clearfix.scss",
+  "keywords": [
+    "barefoot",
+    "oocss",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/barefootcss/trumps.clearfix"
+}
+  
